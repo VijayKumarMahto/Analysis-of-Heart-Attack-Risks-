@@ -27,7 +27,7 @@ There are no missing values in the dataset.
 
  <img width="458" alt="image" src="https://github.com/VijayKumarMahto/Analysis-of-Heart-Attack-Risks-/assets/98145692/739ebf85-345d-400c-921e-e6160d0b964a">
 
-####### DIET V/S HEART ATTACK RISK 
+###### DIET V/S HEART ATTACK RISK 
 <img width="497" alt="image" src="https://github.com/VijayKumarMahto/Analysis-of-Heart-Attack-Risks-/assets/98145692/016db3fe-691d-4a1d-bbc5-5734242e500c">
 
 ##### MACHINE LEARNING MODEL:
